@@ -1,11 +1,5 @@
 # Full Stack Developer Roadmap
 
-A hierarchical knowledge map to guide aspiring developers toward full stack mastery. Structured to support future visualization tools such as roadmap.sh. Focused exclusively on **hard skills**.
-
-Each topic is internally traceable for future resource mapping and progress tracking.
-
----
-
 ## 1. Computing Basics
 
 * Internet Protocols
@@ -167,7 +161,3 @@ Each topic is internally traceable for future resource mapping and progress trac
 
   * Browser devtools
   * Language-specific debuggers
-
----
-
-> This roadmap provides a foundational structure for building strong technical capabilities as a full stack developer. Soft skills are intentionally excluded to maintain a strict focus on hard skills.
