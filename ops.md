@@ -1,9 +1,5 @@
 # DevOps & Infrastructure Roadmap
 
-A structured guide to mastering operational and infrastructure-related competencies for developers and SREs. This roadmap focuses on **hard skills** required to build, deploy, monitor, and maintain production systems at scale.
-
----
-
 ## 1. Foundations
 
 * Linux fundamentals
@@ -140,7 +136,3 @@ A structured guide to mastering operational and infrastructure-related competenc
 
   * Runbooks
   * Postmortems
-
----
-
-> This roadmap focuses on building infrastructure that is secure, scalable, and maintainable. It's ideal for engineers transitioning into DevOps/SRE roles or expanding backend expertise.
